@@ -1,0 +1,79 @@
+[
+    {
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "ngo_name": "Health Care and Social Welfare Society",
+        "address": "Sadhana Drug De-Addiction Center, Cs Puram Post And Mandal, Prakasam Distt-523112, DG Peta Road",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Assam ",
+        "district": "Marigaon ",
+        "ngo_name": "Gram Vikas Parishad ",
+        "address": "College Road Moirabari Town Dist Morigaon PIN 782126 State Assam ",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Bihar ",
+        "district": "Muzzaffarpur ",
+        "ngo_name": "Alp Sankhyak Avam Harijan Samaj Kalyan Kendra.  ",
+        "address": "Data Kambal Shah Mazar, Muzaffarpur, Bihar 842001 ",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Chhattisgarh ",
+        "district": "Bilaspur ",
+        "ngo_name": "Maa Dindeshwari Shiksha Samiti ",
+        "address": "H.No 10, Geetanjali City Phase 1 Ward No.41 Behind Jiwaji Rice Mill, Nehru Nagar, Bilaspur,  Chhatisgarh.  ",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Delhi",
+        "district": "Nand Nagri ",
+        "ngo_name": "Bharatiya Parivardhan Sanstha ",
+        "address": "D-I, Basti Vikas Kendra, Nand Nagri,  Delhi-93 ",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Gujarat ",
+        "district": "Ahmedabad",
+        "ngo_name": "Gujarat Kelavani Trust ",
+        "address": "Mangal prabhat building, opp st xavier high school, ahmedabad 380001  ",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Haryana ",
+        "district": "Sonipat ",
+        "ngo_name": "Adarsh Saraswati Shiksha Samiti  ",
+        "address": "Sant Garib Dass Nagar, Gali No. 3, Kakroi Road, Sonipat Near Ravi Dharam Kanta, Karoi Road, Haryana. ",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Himachal Pradesh ",
+        "district": "Dharamsala",
+        "ngo_name": "Indian Red Cross Society ",
+        "address": "Prayas Bhawan, Kangra,(Dharmshala) Himachal Pradesh.",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Jharkand",
+        "district": "Bokaro ",
+        "ngo_name": "Foundation for National Reconstruction, ",
+        "address": "H/o Raj Narayan Singh, Kailash Nagar, Chas, Bokaro-827013",
+        "bed_capacity": 15
+    },
+    {
+        "state": "Karnataka",
+        "district": "Tumkur",
+        "ngo_name": " Abyudaya Centre for Humanity and Rural Development,  ",
+        "address": " Achrd Integrated Rehabitation Center For Addicts 3rd Main Ashok Nagar ,Opp To Tumkur University Tumkur.572103 ",
+        "bed_capacity": 30
+    },
+    {
+        "state": "Karnataka",
+        "district": "Mandya",
+        "ngo_name": "Dhwani Institute of Rural Development ",
+        "address": "TB Extension Nagamangala,Eshwari Agency Building -571401 ",
+        "bed_capacity": 15
+    }
+]

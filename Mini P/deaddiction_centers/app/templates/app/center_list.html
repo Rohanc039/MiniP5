@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>De-Addiction Centers</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="container mt-4">
+    <h1 class="text-center">De-Addiction Centers</h1>
+
+    <!-- Search Bar -->
+    <form method="get" action="" class="form-inline justify-content-center mb-4">
+        <input type="text" name="q" class="form-control mr-2" placeholder="Search by state" value="{{ query }}">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+
+    <!-- Results -->
+    <div class="list-group">
+        {% for center in centers %}
+            <div class="list-group-item">
+                <h5>{{ center.ngo_name }}</h5>
+                <p><strong>State:</strong> {{ center.state }}, <strong>District:</strong> {{ center.district }}</p>
+                <p><strong>Address:</strong> {{ center.address }}</p>
+                <p><strong>Bed Capacity:</strong> {{ center.bed_capacity }}</p>
+            </div>
+        {% endfor %}
+        {% if centers|length == 0 %}
+            <p class="text-center text-muted">No centers found.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
